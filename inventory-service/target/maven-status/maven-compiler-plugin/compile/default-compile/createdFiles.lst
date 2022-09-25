@@ -1,0 +1,5 @@
+com\demo\inventoryservice\model\Inventory.class
+com\demo\inventoryservice\controller\InventoryController.class
+com\demo\inventoryservice\repository\InventoryRepository.class
+com\demo\inventoryservice\InventoryServiceApplication.class
+com\demo\inventoryservice\service\InventoryService.class
